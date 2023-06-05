@@ -1,1 +1,1 @@
-# Strivers-SDE-Sheet-Challenge
+This is a repository for Strivers SDE SHEET Challenge
